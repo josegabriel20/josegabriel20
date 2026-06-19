@@ -51,7 +51,14 @@ function cards(title,info,image,ruta,lang,left){
                                                                                                                                                              let pcount=0;
                                                                                                                                                              pcount=0;
                                                                                                                                                              function text(data){
+                                                                                                                                                                 
+                                                                                                        
+                                                                                                                                                                 
                                                                                                                                                                const textarea = document.querySelector(".textocontenedor");
+                                                                                                                                                              
+                                                                                                                                                          textarea.innerHTML=`<div id="container-0040540a14e8d1783cdc80ff762040cd"></div>`;
+                                                                                                                                                          textarea.innerHTML=`<script async="async" data-cfasync="false" src="https://pl29788292.effectivecpmnetwork.com/0040540a14e8d1783cdc80ff762040cd/invoke.js"></script>`;       
+                                                                                                                                                                 
                                                                                                                                                                  let pubcount = 10;
                                                                                                                                                                      if(data.lineas.length > 50){
                                                                                                                                                                            pubcount = 15;
