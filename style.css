@@ -200,6 +200,7 @@ color:red;
   display: none;
 }
 .ads{
+  display:none;
   position: relative;
   top: 0;
   left: 0;
