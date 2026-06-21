@@ -41,7 +41,7 @@ function cards(title,info,image,ruta,lang,left){
                                                                                                                                          contenedortexto.appendChild(htitulo);
                                                                                                                                              contenedortexto.appendChild(pparrafo);
                                                                                                                                                  container.appendChild(contenedortexto);
-                                                                                                                                                     /*voy a descansar a partir de aqui es terminar la estructura html*/
+                                                                                                                                                     
                                                                                                                                                          const cuerpo = document.querySelector(".fatherofcards");
                                                                                                                                                              cuerpo.appendChild(container);    
                                                                                                                                                              const wait = document.getElementById("wait1").style.display="none";
